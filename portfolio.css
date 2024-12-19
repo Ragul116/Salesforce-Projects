@@ -161,14 +161,15 @@ body {
   width: 100%;
   border-radius: 8px;
 }
-.about-img1 img {
+/*.about-img1 img {
   padding-bottom: 10%;
-  max-width: 530px;
+  padding-right: 20%; 
+  max-width: 330px;
   height: auto;
   width: 100%;
   border-radius: 8px;
    
-}
+} */
 .about-text h2 {
   font-size: 60px;
 }
