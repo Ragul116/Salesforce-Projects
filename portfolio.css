@@ -156,14 +156,14 @@
   .about-img img {
     padding-bottom: 10%;
     padding-left: 20%;
-    max-width: auto;
+    max-width: 630px;
     height: auto;
     width: auto;
     border-radius: 8px;
   }
   .about-img1 img {
     padding-bottom: 10%;
-    max-width: auto;
+    max-width: 530px;
     height: auto;
     width: auto;
     border-radius: 8px;
